@@ -1,0 +1,16 @@
+{
+  "name": "binary_search_npm_package",
+  "version": "1.0.0",
+  "description": "Binary search functionality",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "[binary_search",
+    "search_the_element",
+    "optimized_searching]"
+  ],
+  "author": "",
+  "license": "ISC"
+}
